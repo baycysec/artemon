@@ -36,10 +36,6 @@ By bridging operational DFIR, network intelligence, and education within a unifi
 
 <p align="justify">There is a clear need for a solution that can capture, analyze, and visualize artifact changes as they happen <b>bridging the gap between investigation, automation, and education before the evidence disappears.</b></p>
 
-## [📈] What's Next?
-> [!TIP]
-> Future research will extend ArteMon to Linux systems and further deepen its capability to monitor and interpret complex Windows artifacts.
-
 ## [🧠] Main Features
 
 |No.|Main Features|Summary|
@@ -326,7 +322,9 @@ chmod -R 755 holmesMod/results/
 |<img src="assets/hmge-report.gif" width="500">|
 
 
-
+## [📈] What's Next?
+> [!TIP]
+> Future research will extend ArteMon to Linux systems and further deepen its capability to monitor and interpret complex Windows artifacts.
 
 ## Authors
 
