@@ -1,4 +1,4 @@
-# ArteMon: A Modular Engine for Real-Time Windows Artifact Monitoring
+## ArteMon: A Modular Engine for Real-Time Windows Artifact Monitoring
 
 <p align="center">
 
