@@ -82,6 +82,9 @@ After selection, press Enter. ArteMon will spin up detector threads. Wait until 
 - Our customized Golang-based ransomware sample [Kegembok](https://drive.google.com/drive/folders/1xlvRohfjZp1ReGFvFXuHh3cvWNIFn1aj?usp=drive_link)
 - Our customized adversary simulation script attacks [Rizarru](https://drive.google.com/drive/folders/1YDI29V9U3G_0IwkJTzu0R1RFMLm-XjuS?usp=drive_link)
 
+## [📃] Holmes Vision Capabilities
+
+
 ---
 
 > ## Holmes Geo
