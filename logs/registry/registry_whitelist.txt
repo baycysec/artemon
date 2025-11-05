@@ -1,0 +1,15 @@
+c:\windows
+c:\windows\system32
+c:\program files
+c:\program files (x86)
+c:\program files\common files
+%systemroot%
+%programfiles%
+c:\programdata
+c:\users\public
+\program files\google\chrome\application\chrome.exe
+\program files\microsoft\edge\application\msedge.exe
+onedrive.exe
+svchost.exe
+explorer.exe
+"c:\windows\system32\notepad.exe"
