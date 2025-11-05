@@ -14,6 +14,7 @@
  <a href="#"><img src="https://img.shields.io/badge/Windows-Live_Artifacts_Monitor-blue"></a>
  <a href="#"><img src="https://img.shields.io/badge/IP_Geolocation_Checker-129990"></a>
  <a href="#"><img src="https://img.shields.io/badge/Tabular_File_Formats-Output-2e5339"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JSON-Output-F0E491"></a>
  <a href="#"><img src="https://img.shields.io/badge/IP_Based-Threat_Intelligence_Tool-644A07"></a>
  <a href="#"><img src="https://img.shields.io/badge/DFIR-Simulation_Exercise-3B0270"></a>
   <!-- <a href="https://baycysec.org/"><img src="https://img.shields.io/badge/BAY_Cyber_Security-Community_Contributions-59AC77"></a> -->
