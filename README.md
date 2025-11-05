@@ -80,7 +80,7 @@ After selection, press Enter. ArteMon will spin up detector threads. Wait until 
 5. Once detectors are running, you may launch adversary simulations or tests. See the sample simulations in ArteMon's WIKI:
 - Our customized C-based ransomware sample [Abyssos](https://drive.google.com/drive/folders/1yrhIcZ5IpH5BR_mX-4rKrYpURPIbkejM?usp=drive_link)
 - Our customized Golang-based ransomware sample [Kegembok](https://drive.google.com/drive/folders/1xlvRohfjZp1ReGFvFXuHh3cvWNIFn1aj?usp=drive_link)
-- Our customized adversary simulation script attacks [Rizarru](https://drive.google.com/file/d/12nzCQWaTbDk7cAj3p1wNiPthqG9iQjJL/view?usp=drive_link)
+- Our customized adversary simulation script attacks [Rizarru](https://drive.google.com/drive/folders/1YDI29V9U3G_0IwkJTzu0R1RFMLm-XjuS?usp=drive_link)
 
 ---
 
