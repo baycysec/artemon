@@ -86,6 +86,10 @@ After selection, press Enter. ArteMon will spin up detector threads. Wait until 
 |Realtime|`Process`, `LNK`, `Filesystem`, `EventLog`|Immediately reacts to changes as they occur.|
 |Polling|`Netstat`, `Prefetch`, `SchTask`, `RecycleBin`, `Services`, `Startup Items`, `Registry`, `WMI Subscription`|Periodically collects and compares snapshots at defined intervals.|
 |Hybrid|Filesystem|Combines real-time monitoring with periodic vaidation for higher reliability.|
+
+> [!NOTE]
+> For detailed information, refer to the Holmes Vision technical specifications [here]()
+
 ---
 
 > ## Holmes Geo
