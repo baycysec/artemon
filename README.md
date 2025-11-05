@@ -44,8 +44,8 @@ By bridging operational DFIR, network intelligence, and education within a unifi
 
 |No.|Main Features|Summary|
 |:-:|:------------|:----|
-|1. |Holmes Vision |A real-time Windows artifact monitoring and correlation engine that continuously detects and tracks changes across windows forensic artifacts. Below are Holmes Vision core detectors: <br>1.Process Detector.<br>2. Netstat Detector.<br>3. Filesystem Detector.<br>4. Registry Detector.<br>5. EventLog Detector.<br>6. LNK Detector.<br>7. Prefetch Detector.<br>8. Scheduled Task Detector.<br>9. Recycle Bin Detector.<br>10. Services Detector.<br>11. Startup Items Detector.<br>12. WMI Subscription Detector.|
-|2. |Holmes Geo |<p align="justify">A companion module that can be deployed on Linux (including WSL) to perform IP geolocation analysis using network logs retrieved from ArteMon, providing contextual and geographic intelligence.</p>|
+|1. |Holmes Vision |A real-time Windows artifact monitoring and correlation engine that continuously detects and tracks changes to common forensic artifacts. Core detectors:: <br>1.Process Detector.<br>2. Netstat Detector.<br>3. Filesystem Detector.<br>4. Registry Detector.<br>5. EventLog Detector.<br>6. LNK Detector.<br>7. Prefetch Detector.<br>8. Scheduled Task Detector.<br>9. Recycle Bin Detector.<br>10. Services Detector.<br>11. Startup Items Detector.<br>12. WMI Subscription Detector.|
+|2. |Holmes Geo |<p align="justify">A lightweight companion module (Linux / WSL) that enriches network logs with IP geolocation and contextual geographic intelligence for ArteMon.</p>|
 
 ## [⚙️] Deployments & Usage
 
