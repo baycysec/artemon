@@ -88,7 +88,7 @@ After selection, press Enter. ArteMon will spin up detector threads. Wait until 
 |Hybrid|Filesystem|Combines real-time monitoring with periodic vaidation for higher reliability.|
 
 > [!NOTE]
-> For detailed information, refer to the Holmes Vision technical specifications [here]()
+> For detailed information, refer to the Holmes Vision technical specifications [here](https://github.com/baycysec/artemon/wiki/ArteMon-WIKI-Page)
 
 ---
 
