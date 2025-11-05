@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/2b005ce8-ba53-4009-a451-fa6940d8a8b5" width="600">
+<img src="https://github.com/user-attachments/assets/9363ea28-6c4e-4859-909e-a1f4787245f7" width="9216" height="2304" alt="artemon-banner"  />
 
 </p>
 
