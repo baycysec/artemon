@@ -78,15 +78,16 @@ After selection, press Enter. ArteMon will spin up detector threads. Wait until 
 
 4. This output confirms the corresponding monitoring threads are running.
 5. Once detectors are running, you may launch adversary simulations or tests. See the sample simulations in ArteMon's WIKI:
-- Our customized ransomware sample [Abyssos]()
-- Our customized adversary simulation script attacks [Rizarru]()
+- Our customized C-based ransomware sample [Abyssos](https://drive.google.com/drive/folders/1yrhIcZ5IpH5BR_mX-4rKrYpURPIbkejM?usp=drive_link)
+- Our customized Golang-based ransomware sample [Kegembok](https://drive.google.com/drive/folders/1xlvRohfjZp1ReGFvFXuHh3cvWNIFn1aj?usp=drive_link)
+- Our customized adversary simulation script attacks [Rizarru](https://drive.google.com/file/d/12nzCQWaTbDk7cAj3p1wNiPthqG9iQjJL/view?usp=drive_link)
 
 ---
 
 > ## Holmes Geo
 
 > [!WARNING]
-> For security reasons, we recommend using your own Account ID and License Key for MaxMind DB and your own API Key for Virus Total. For guidance on how to obtain these, please refer to our [WIKI](https://github.com/jon-brandy/HolmesGeo/wiki/Obtain-GeoLite2-License-and-Virus-Total-API-Key).
+> For security reasons, we recommend using your own Account ID and License Key for MaxMind DB and your own API Key for Virus Total. For guidance on how to obtain these, please refer to our [WIKI](https://github.com/baycysec/artemon/wiki/ArteMon-WIKI-Page).
 
 ```html
 # Paste your MaxMind UserID and LicenseKey at install.sh script
