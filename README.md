@@ -49,7 +49,7 @@ By bridging operational DFIR, network intelligence, and education within a unifi
 
 ## [⚙️] Deployments & Usage
 
-> # Holmes Vision
+> ## Holmes Vision
 
 > [!IMPORTANT]
 > - Windows Powershell Terminal (Administrator privileges required)
@@ -84,7 +84,7 @@ After selection, press Enter. ArteMon will spin up detector threads. Wait until 
 
 ---
 
-> # Holmes Geo
+> ## Holmes Geo
 
 > [!WARNING]
 > For security reasons, we recommend using your own Account ID and License Key for MaxMind DB and your own API Key for Virus Total. For guidance on how to obtain these, please refer to our [WIKI](https://github.com/baycysec/artemon/wiki/ArteMon-WIKI-Page).
