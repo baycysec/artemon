@@ -1,4 +1,4 @@
-<h1 align="center">ArteMon: A Modular Engine for Real-Time Windows Artifact Monitoring</h1>
+<h1>ArteMon: A Modular Engine for Real-Time Windows Artifact Monitoring</h1>
 
 <p align="center">
 
