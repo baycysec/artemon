@@ -324,7 +324,7 @@ chmod -R 755 holmesMod/results/
 
 ## [📈] What's Next?
 > [!TIP]
-> Future research will extend ArteMon to Linux systems and further deepen its capability to monitor and interpret complex Windows artifacts.
+> Future research will extend ArteMon’s coverage to Linux environments and enhance its analytical depth for monitoring and interpreting complex Windows artifacts.
 
 ## Authors
 
