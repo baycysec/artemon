@@ -49,7 +49,7 @@ By bridging operational DFIR, network intelligence, and education within a unifi
 > ## Holmes Vision
 
 > [!IMPORTANT]
-> - Windows Powershell Terminal (Administrator privileges required)
+> - Windows 11 Powershell Terminal (Administrator privileges required)
 > - Python 3.10+ installed and on your PATH
 
 ```ps1
