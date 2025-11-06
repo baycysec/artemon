@@ -121,6 +121,7 @@ After selection, press Enter. ArteMon will spin up detector threads. Wait until 
 wsl --install
 wsl # launch newly installed Ubuntu wsl environment
 sudo apt update && sudo apt install -y git
+git clone https://github.com/baycysec/artemon.git
 cd HolmesGeo
 nano install.sh # paste your maxmind creds and VT API key.
 chmod +x install.sh
